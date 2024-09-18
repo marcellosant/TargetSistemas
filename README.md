@@ -1,4 +1,6 @@
 # Target Sistemas
+Todas resoluções da tarefa estão nesse repositório, incluindo os dados da questão 3. 
+
 
 ## Primeira tarefa: Cálculo da Soma
 
@@ -10,6 +12,15 @@ int INDICE = 13, SOMA = 0, K = 0;
 Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
 Imprimir(SOMA);  
 ```
+
+### Resolução:
+#### Saída:
+```
+91
+``` 
+
+A resposta é 91 
+
 
 
 
